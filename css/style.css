@@ -23,7 +23,7 @@ a {
 
 body {
   font-family: "Red Hat Display", Arial, Helvetica, sans-serif;
-  background-color: var(--neutral-very-pale-blue);
+  background-color: hsl(223, 94%, 94%);
   background-image: url(../img/pattern-background-desktop.svg);
   background-repeat: no-repeat;
   background-size: contain;
