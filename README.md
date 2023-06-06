@@ -34,7 +34,7 @@ Users should be able to:
 
 - Solution URL: [HTML Solution](https://github.com/hitmorecode/order-summary-component/blob/main/index.html)
 - Solution URL: [CSS Solution](https://github.com/hitmorecode/order-summary-component/blob/main/css/style.css)
-- Live Site URL: [Live site](https://hitmorecode.github.io/qr-code-component/)
+- Live Site URL: [Live site](https://hitmorecode.github.io/order-summary-component/)
 
 ## My process
 
@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-I was struggling placing the background svg image on the page. The solution was very simple, change background-size from cover to contain. I took me awhile because I've never used background-size: contain, didn't even knew it existed.
+I was struggling placing the background svg image on the page. The solution was very simple, change background-size from cover to contain. It took me awhile because I've never used background-size: contain, didn't even knew it existed.
 
 
 ### Useful resources
