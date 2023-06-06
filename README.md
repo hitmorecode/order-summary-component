@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [HTML Solution](https://github.com/hitmorecode/qr-code-component/blob/main/index.html)
-- Solution URL: [CSS Solution](https://github.com/hitmorecode/qr-code-component/blob/main/css/style.css)
+- Solution URL: [HTML Solution](https://github.com/hitmorecode/order-summary-component/blob/main/index.html)
+- Solution URL: [CSS Solution](https://github.com/hitmorecode/order-summary-component/blob/main/css/style.css)
 - Live Site URL: [Live site](https://hitmorecode.github.io/qr-code-component/)
 
 ## My process
@@ -45,10 +45,18 @@ Users should be able to:
 - Flexbox
 
 
+### What I learned
+
+I was struggling placing the background svg image on the page. The solution was very simple, change background-size from cover to contain. I took me awhile because I've never used background-size: contain, didn't even knew it existed.
+
+
 ### Useful resources
 
 - [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is an amazing article which helped me getting started with flexbox. I'd recommend it to anyone still learning this concept.
 - [Colt Steele - Flexbox tutorial](https://www.youtube.com/watch?v=qZv-rNx0jEA) - This video helped me understand flexbox. If you are struggling with flexbox like I did, I recommend this video.
+- [codeSTACKr - Learn CSS Grid in 20 Minutes](https://www.youtube.com/watch?v=0-DY8J_skZ0) - This is a great video tutorial on how CSS grid works and how to use it.
+
+-[Wes Bos - CSS Grid Course](https://www.youtube.com/watch?v=T-slCsOrLcc) - This is a series of CSS grid tutorials. It's devided in 25 parts. For those who really want to learn CSS grid, I recommend these series.
 
 
 ## Author
