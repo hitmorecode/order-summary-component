@@ -138,6 +138,7 @@ h1 {
   align-items: center;
   justify-content: center;
   transition: background 150ms ease-in-out;
+  box-shadow: 0 15px 20px hsla(242, 76%, 68%, .5);
 }
 
 #payment,
